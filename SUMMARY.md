@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Linux](linux/fun.md)
+* [Linux](linux/README.md)
 
